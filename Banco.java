@@ -66,5 +66,7 @@ public class Banco {
 			}
 		}
 		System.out.println(">>> Operations Finished.");
+		
+		input.close();
 	}
 }
